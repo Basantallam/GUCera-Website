@@ -1,5 +1,5 @@
 # GUCera-Website
-this is our first web development project anlong with database management.
+this is our first web development project along with database management.
 in order to run our code
 download it
 create a new database and run the database definition 
