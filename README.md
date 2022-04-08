@@ -1,6 +1,8 @@
 ### GUCera-Website
 
-This is our first web development project along with database management. In this project, we focused on the backend more than the frontend as we were practising designing and querying an SQL database. 
+This is our first web development project along with database management. In this project, we focused on the backend more than the frontend as our main goal was practising designing and querying an SQL Server database. 
+
+We used SQL Server, C#, html and CSS.
 
 in order to run our code
 download it
